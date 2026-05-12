@@ -8,7 +8,7 @@ I am an **AI Engineer** dedicated to building the future of **Automated Healthca
 ## 📈 At a Glance (Impact Metrics)
 - 🚀 **95%+** AI Data Extraction Accuracy in Production.
 - ⚡ **80%** Reduction in Manual Data Entry for Enterprise Clients.
-- 🤖 **5** Major AI Systems Deployed in Healthcare & Legal Tech.
+- 🤖 **7** Major AI Systems Deployed in Healthcare, Legal & Security.
 - 🎓 **BS Information Technology** (CGPA: 3.63/4.0)
 
 ---
@@ -32,33 +32,37 @@ I am an **AI Engineer** dedicated to building the future of **Automated Healthca
 
 ## 🌟 Featured Projects
 
-### 🏥 [Medical Superbill Automation Dashboard](https://qazijawadzaheer.netlify.app/)
-An AI-powered RCM system that extracts and validates patient data via HL7 APIs.
-- **Stack**: Gemini OCR, FastAPI, SQL Server.
-- **Outcome**: 80% reduction in manual billing entry.
+### 🏥 Healthcare AI & Automation
+- **[AI Doctor with Voice + Vision](https://qazijawadzaheer.netlify.app/)**: Real-time multimodal medical consultation using Speech-to-Text, Vision, and TTS. (FastAPI, GROQ, Whisper, Llama 4).
+- **[RCM Medical Superbill Automation](https://qazijawadzaheer.netlify.app/)**: AI system extracting and submitting patient data via CareCloud APIs. Reduced manual entry by 80%.
+- **[AI Clinical Documentation Tool](https://qazijawadzaheer.netlify.app/)**: Automates SOAP note generation and CPT/ICD-10 predictions for 15+ specialties. (Django REST, Gemini 2.0).
+- **[FOX Data Migration](https://qazijawadzaheer.netlify.app/)**: Custom desktop crawler for secure medical document migration between Raintree and DTFOX.
 
-### ⚖️ [Adal AI - Legal Assistant](https://huggingface.co/spaces/jawad-zaheer2024/Adal-AI)
-A professional AI legal consultant for Pakistani Law using RAG and Groq Llama-3.
-- **Stack**: Groq (Llama 3.3), Supabase, React (RTL Urdu).
+### ⚖️ Legal Tech & RAG
+- **[Adal AI - Legal Assistant](https://huggingface.co/spaces/jawad-zaheer2024/Adal-AI)**: Professional AI legal consultant for Pakistani Law with RTL Urdu support. (Groq, Supabase, React).
+- **[Contract LLM (RAG)](https://qazijawadzaheer.netlify.app/)**: Legal intelligence platform for semantic search and citation-based analysis across 1000+ contracts.
 
-### 📄 [Contract LLM (RAG)](https://qazijawadzaheer.netlify.app/)
-Intelligence platform enabling semantic search across 1000+ legal contracts.
-- **Stack**: Qdrant Vector DB, OpenAI, PyMuPDF.
-
-### 🚗 [Intelligent Road Security System](https://qazijawadzaheer.netlify.app/)
-AI-based surveillance system utilizing Computer Vision for urban safety.
-- **Stack**: YOLOv11, OpenCV, Flask, Firebase.
+### 🛡️ Computer Vision & Security
+- **[Intelligent Road Security System](https://qazijawadzaheer.netlify.app/)**: Real-time urban surveillance platform detecting weapons, fire, and potholes using YOLOv11 and OpenCV.
 
 ---
 
 ## 💼 Experience Highlights
-- **AI Engineer @ CareCloud MTBC**: Leading the automation of healthcare workflows and RCM case tracking.
-- **ISPR Intern (Data Analytics)**: Developed fake news detection systems for national data monitoring.
-- **ML Intern @ Elevvo Pathways**: Built end-to-end ML pipelines for data preprocessing and optimization.
+- **AI Engineer @ CareCloud MTBC**: Leading healthcare RCM automation and case tracking systems.
+- **ISPR Intern (Data Analytics)**: Built fact-checking and fake news detection systems for national media monitoring.
+- **ML Intern @ Elevvo Pathways**: Developed end-to-end ML pipelines for data preprocessing and optimization.
+
+---
+
+## 📊 GitHub Performance
+![Jawad's GitHub stats](https://github-readme-stats.vercel.app/api?username=jawadzaheer2024&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jawadzaheer2024&layout=compact&theme=tokyonight&hide_border=true)
+
+---
 
 ## 📫 Let's Connect
 - **LinkedIn**: [in/qazijawadzaheer](https://www.linkedin.com/in/qazijawadzaheer)
-- **Portfolio**: [qazijawadzaheer.netlify.app]
+- **Portfolio**: [qazijawadzaheer.netlify.app](https://qazijawadzaheer.netlify.app/)
 - **Email**: qjawad009@gmail.com
 - **WhatsApp**: +92 324 5065733
 
