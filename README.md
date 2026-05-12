@@ -54,11 +54,6 @@ I am an **AI Engineer** dedicated to building the future of **Automated Healthca
 
 ---
 
-## 📊 GitHub Performance
-![Jawad's GitHub stats](https://github-readme-stats.vercel.app/api?username=jawadzaheer2024&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jawadzaheer2024&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 📫 Let's Connect
 - **LinkedIn**: [in/qazijawadzaheer](https://www.linkedin.com/in/qazijawadzaheer)
